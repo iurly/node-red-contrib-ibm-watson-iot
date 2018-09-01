@@ -6,7 +6,7 @@
     "name": "node-red-contrib-ibm-watson-iot",
     "description": "Connect to IBM Watson Internet of Things Plaform as a Device or Gateway",
     "dependencies": {
-        "ibmiotf": "0.2.*"
+        "ibmiotf": "0.2.39"
     },
     "version": "0.2.8",
     "keywords": [
